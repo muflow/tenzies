@@ -1,6 +1,7 @@
 # Tenzies Game
 
 Tenzies is inspired by the traditional game of Tenzi. The goal of the game is to get all the dice to show the same number. In this version of the game, you can click on each die to "freeze" it at its current value, and then click the Roll button to roll the unfrozen dice again.
+
 ![This is an alt text.](./public/img/screenshot.png 'screenshot of the UI.')
 
 ## Features
